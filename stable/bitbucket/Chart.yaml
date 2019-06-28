@@ -1,7 +1,7 @@
 name: bitbucket
 version: 0.1.0
 apiVersion: v1
-appVersion: "5.15.0"
+appVersion: "6.4.0"
 description: Unofficial helm chart for Atlassian Bitbucket
 keywords:
 - bitbucket
